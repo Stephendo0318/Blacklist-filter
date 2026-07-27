@@ -1,0 +1,13 @@
+{
+  "name": "Blacklist Filter",
+  "description": "Replaces matching Discord messages with a private placeholder card.",
+  "authors": [
+    {
+      "name": "Blacklist Filter"
+    }
+  ],
+  "main": "src/index.tsx",
+  "vendetta": {
+    "icon": "ic_visibility_off_24px"
+  }
+}
