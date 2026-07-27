@@ -6,7 +6,7 @@
       "name": "Blacklist Filter"
     }
   ],
-  "main": "src/index.js"
+  "main": "index.js"
   "vendetta": {
     "icon": "ic_visibility_off_24px"
   }
